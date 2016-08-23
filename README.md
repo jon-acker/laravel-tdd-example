@@ -20,3 +20,5 @@ cd into `public/` and run
 ```
 php -S localhost:4444
 ```
+
+Running code requires php7 (or remove typehints)
